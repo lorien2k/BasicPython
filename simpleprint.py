@@ -1,0 +1,5 @@
+print("= = = = = \tautobiografi\t = = = = =")
+print("= Nama\t\t: Rachmat Mukti Ilyas = = =")
+print("= NIM\t\t: 101022330200 = = =")
+print("= Jurusan\t: S1 Teknik Elektro = = =")
+print("= = = = = = = = = = = = = = = = = = = = = = = = = ")
